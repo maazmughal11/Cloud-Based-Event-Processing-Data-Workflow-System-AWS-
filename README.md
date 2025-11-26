@@ -1,9 +1,4 @@
-Below is a **crazy good README** — recruiter-friendly, portfolio-level, clean, powerful.
-It reads like you worked at Shopify/Amazon data engineering team.
 
-You can **copy–paste directly** to your GitHub as-is.
-
----
 
 # 🚀 AWS Real-Time Retail Analytics Pipeline
 
